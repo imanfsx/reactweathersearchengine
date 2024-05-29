@@ -6,7 +6,7 @@ export default function MoreInfo() {
       This project was coded with 💗 by{" "}
       <a href="https://github.com/imanfsx">Iman Sohail</a> and is{" "}
       <a href="https://github.com/imanfsx">on GitHub</a> and{" "}
-      <a href="">hosted on Vercek</a>
+      <a href="https://github.com/imanfsx">hosted on Vercek</a>
     </footer>
   );
 }

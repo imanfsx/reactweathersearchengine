@@ -11,7 +11,7 @@ export default function Forecast(props) {
     }
 
     function searchCity() {
-      const apiKey = "c8735bb7e8e2f8d8a38c7501f3cd47d3";
+      const apiKey = "8cac06f7ab6c10287cd06a316ff84a57";
       const units = "metric";
       const apiUrl = `https://api.shecodes.io/weather/v1/forecast?query=${props.city}&key=${apiKey}&units=${units}`;
       axios.get(apiUrl).then(showData);
