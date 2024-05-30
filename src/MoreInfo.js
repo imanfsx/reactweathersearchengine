@@ -8,7 +8,10 @@ export default function MoreInfo() {
       <a href="https://github.com/imanfsx/reactweathersearchengine">
         on GitHub
       </a>{" "}
-      and <a href="https://github.com/imanfsx">hosted on Vercel</a>
+      and{" "}
+      <a href="https://imanreactweathersearchengine.vercel.app/">
+        hosted on Vercel
+      </a>
     </footer>
   );
 }
